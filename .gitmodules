@@ -1,3 +1,4 @@
 [submodule "nerf-pytorch-rvs"]
 	path = nerf-pytorch-rvs
 	url = https://github.com/GreatDrake/nerf-pytorch-rvs
+    branch = master
