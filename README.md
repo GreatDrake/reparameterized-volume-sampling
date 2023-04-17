@@ -2,8 +2,6 @@
 
 Code release for paper [Differentiable Rendering with Reparameterized Volume Sampling](https://arxiv.org/abs/2302.10970).
 
-Repository is still under construction 🚧 🔨
-
 <img align="middle" width="70%" src="figs/spline_inversion.png">
 
 ## 1D Experiments
@@ -28,6 +26,11 @@ Testing:
 ```
 python run_nerf.py --config configs/{SCENE}_rvs.txt --render_only
 ```
+
+## Monte Carlo Estimates
+
+Under construction 🚧 🔨
+
 ## Citation
 
 ```
