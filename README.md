@@ -4,7 +4,7 @@ Code release for paper [Differentiable Rendering with Reparameterized Volume Sam
 
 Repository is still under construction 🚧 🔨
 
-<img align="middle" width="60%" src="figs/spline_inversion.png">
+<img align="middle" width="70%" src="figs/spline_inversion.png">
 
 ## 1D Experiments
 
