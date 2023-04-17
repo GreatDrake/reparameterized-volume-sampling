@@ -1,1 +1,4 @@
 nerf/data
+nerf/__pycache__/
+nerf/logs/
+nerf/runs/
