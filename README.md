@@ -10,7 +10,7 @@ Notebook `1d_experiments.ipynb` contains RVS sampling algorithm implementation a
 
 ## Differentiable Hierarchical Sampling
 
-Our NeRF implementation is based on [nerf-pytorch](https://github.com/google/mipnerf) repository and follows the same structure. 
+Our NeRF implementation is based on [nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch) repository and follows the same structure. 
 
 Training NeRF with RVS algorithm for differentiable hierarchical sampling: 
 
