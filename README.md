@@ -1,6 +1,6 @@
-# reparameterized-volume-sampling
+# Differentiable Rendering with Reparameterized Volume Sampling
 
-Code release for paper [Differentiable Rendering with Reparameterized Volume Sampling](https://arxiv.org/abs/2302.10970).
+Code release for our paper [Differentiable Rendering with Reparameterized Volume Sampling](https://arxiv.org/abs/2302.10970).
 
 Nikita Morozov, Denis Rakitin, Oleg Desheulin, Dmitry Vetrov, Kirill Struminsky
 
@@ -26,7 +26,7 @@ cd nerf
 python run_nerf.py --config configs/{SCENE}_rvs.txt
 ```
 
-replace `{SCENE}` with `trex` | `horns` | `flower` | `fortress` | `lego` | etc.
+replace `{SCENE}` with `trex` | `horns` | `flower` | `ship` | `lego` | etc.
 
 Testing:
 
