@@ -2,6 +2,8 @@
 
 Code release for paper [Differentiable Rendering with Reparameterized Volume Sampling](https://arxiv.org/abs/2302.10970).
 
+Nikita Morozov, Denis Rakitin, Oleg Desheulin, Dmitry Vetrov, Kirill Struminsky
+
 <img align="middle" width="70%" src="figs/spline_inversion.png">
 
 ## Abstract
@@ -31,10 +33,6 @@ Testing:
 ```
 python run_nerf.py --config configs/{SCENE}_rvs.txt --render_only
 ```
-
-## Monte Carlo Estimates
-
-Under construction 🚧 🔨
 
 ## Citation
 
