@@ -37,10 +37,12 @@ python run_nerf.py --config configs/{SCENE}_rvs.txt --render_only
 ## Citation
 
 ```
-@article{morozov2023differentiable,
-  title={Differentiable Rendering with Reparameterized Volume Sampling},
-  author={Morozov, Nikita and Rakitin, Denis and Desheulin, Oleg and Vetrov, Dmitry and Struminsky, Kirill},
-  journal={arXiv preprint arXiv:2302.10970},
-  year={2023}
+@inproceedings{morozov2024differentiable,
+  title={Differentiable rendering with reparameterized volume sampling},
+  author={Morozov, Nikita and Rakitin, Denis and Desheulin, Oleg and Vetrov, Dmitry P and Struminsky, Kirill},
+  booktitle={International Conference on Artificial Intelligence and Statistics},
+  pages={4852--4860},
+  year={2024},
+  organization={PMLR}
 }
 ```
